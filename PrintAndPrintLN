@@ -1,0 +1,4 @@
+First LineSecond ine
+Third LineFourth Line
+
+print() continues to print in the same line, whereas the println() tends to print in a new line or next line.
